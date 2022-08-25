@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="7" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-21T08:19:45Z" name="Default suite" finished-at="2022-08-21T08:19:45Z" duration-ms="113">
+    <groups>
+      <group name="smoke">
+        <method signature="PerfumePurchase.SearchContent()[pri:2, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" name="SearchContent" class="com.flipkart.stepdefinitions.PerfumePurchase"/>
+        <method signature="PerfumePurchase.closeLogin()[pri:1, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" name="closeLogin" class="com.flipkart.stepdefinitions.PerfumePurchase"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2022-08-21T08:19:45Z" name="Default test" finished-at="2022-08-21T08:19:45Z" duration-ms="113">
+      <class name="com.flipkart.stepdefinitions.PerfumePurchase">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="browserLaunch" finished-at="2022-08-21T08:19:45Z" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="startTime" finished-at="2022-08-21T08:19:45Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="closeLogin()[pri:1, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="closeLogin" finished-at="2022-08-21T08:19:45Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeLogin -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="endTime" finished-at="2022-08-21T08:19:45Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="startTime" finished-at="2022-08-21T08:19:45Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="SearchContent()[pri:2, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="SearchContent" finished-at="2022-08-21T08:19:45Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchContent -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="endTime" finished-at="2022-08-21T08:19:45Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="startTime" finished-at="2022-08-21T08:19:45Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="SearchTab()[pri:2, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="SearchTab" finished-at="2022-08-21T08:19:45Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTab -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="endTime" finished-at="2022-08-21T08:19:45Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="startTime" finished-at="2022-08-21T08:19:45Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="ScreenShot()[pri:5, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="ScreenShot" finished-at="2022-08-21T08:19:45Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShot -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="endTime" finished-at="2022-08-21T08:19:45Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="startTime" finished-at="2022-08-21T08:19:45Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="ScreenShot()[pri:5, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="ScreenShot" finished-at="2022-08-21T08:19:45Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShot -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="endTime" finished-at="2022-08-21T08:19:45Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="startTime" finished-at="2022-08-21T08:19:45Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="ScreenShot()[pri:5, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="ScreenShot" finished-at="2022-08-21T08:19:45Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShot -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="endTime" finished-at="2022-08-21T08:19:45Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:com.flipkart.stepdefinitions.PerfumePurchase@258d79be]" started-at="2022-08-21T08:19:45Z" name="browserQuit" finished-at="2022-08-21T08:19:45Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- com.flipkart.stepdefinitions.PerfumePurchase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
